@@ -1,3 +1,5 @@
+// Ex1. 유효범위를 벗어나는 변수가 없을 때
+
 function printOwning(invoice) {
   let outstanding = 0;
 
