@@ -1,4 +1,4 @@
-# Refactoring2 - 6.11 Split Phase
+# 6.11 단계 쪼개기 (Split Phase)
 
 # 배경
 
